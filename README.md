@@ -1,6 +1,6 @@
 # 🚨 Crime Analysis
 
-Repositório voltado à **análise de dados criminais** do Estado do Rio Grande do Sul (RS), em 2024. Coletados em maio de 2025 através do site da [**Secretaria de Segurança Pública**](https://www.ssp.rs.gov.br/dados-abertos) (SSP/RS), os dados sob análise têm o fim de auxiliar na compreensão de padrões e tendências criminais da região.
+Repositório voltado à **análise de dados criminais** do Estado do Rio Grande do Sul (RS), de 2022 a 2024. Coletados em maio de 2025 através do site da [**Secretaria de Segurança Pública**](https://www.ssp.rs.gov.br/dados-abertos) (SSP/RS), os dados sob análise têm o fim de auxiliar na compreensão de padrões e tendências criminais da região.
 
 <div align="center">
   <img style="max-width: 100%; height: auto;" src="assets/handcuffs.png" alt="Handcuffs" />
